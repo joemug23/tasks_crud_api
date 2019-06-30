@@ -1,0 +1,16 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "a simple api for a task manager app using postgresql",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Mugula",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^7.3.0"
+  }
+}
