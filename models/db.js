@@ -2,7 +2,7 @@ const { Pool, Client } = require('pg');
 
 // connect to postgres database
 const pool = new Pool({
-    user: 'postgres',
+    user: '',
     host: 'localhost',
     database: 'scrum',
     password: '',
